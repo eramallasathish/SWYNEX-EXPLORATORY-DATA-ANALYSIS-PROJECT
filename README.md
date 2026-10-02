@@ -39,6 +39,7 @@ The analysis includes multiple visualizations and business insights based on del
 ---
 
 # 📊 Data Analysis & Visualizations
+### Orders by status
 This visualization shows the distribution of orders according to their status.
 <img width="1857" height="812" alt="Image" src="https://github.com/user-attachments/assets/1583680b-95bd-4f61-a9cc-89d65f823398" />
 ### Key Observation
